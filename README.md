@@ -22,3 +22,8 @@ Use of Long-short Term Memory Networks (LSTM) to implement the project.
 **Output** <br>
 **Traininig loss**: 3.211519
 
+<br>
+<br>
+<br>
+The reference code for the project is available at https://github.com/udacity/deep-learning-v2-pytorch.git repository 
+
